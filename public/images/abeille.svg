@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" role="img" aria-labelledby="title">
+  <title id="title">Une abeille butine une fleur</title>
+  <rect width="800" height="560" fill="#d8e5ce"/>
+  <circle cx="115" cy="110" r="110" fill="#eaf0dc" opacity=".8"/>
+  <circle cx="700" cy="424" r="154" fill="#bed4ba"/>
+  <path d="M0 410c130-34 208-5 325-34 162-39 311-23 475 11v173H0z" fill="#91b18c"/>
+  <path d="M493 448c-20-111 0-204 50-286m-54 218c-49-71-92-99-144-108m128 42c49-53 96-78 151-78" fill="none" stroke="#4f795b" stroke-linecap="round" stroke-width="13"/>
+  <g fill="#f3c66c">
+    <circle cx="537" cy="155" r="27"/><circle cx="494" cy="169" r="27"/><circle cx="505" cy="213" r="27"/><circle cx="550" cy="211" r="27"/><circle cx="564" cy="180" r="27"/>
+    <circle cx="341" cy="258" r="21"/><circle cx="309" cy="273" r="21"/><circle cx="318" cy="309" r="21"/><circle cx="351" cy="310" r="21"/><circle cx="364" cy="279" r="21"/>
+    <circle cx="640" cy="185" r="21"/><circle cx="608" cy="198" r="21"/><circle cx="618" cy="234" r="21"/><circle cx="650" cy="235" r="21"/><circle cx="664" cy="205" r="21"/>
+  </g>
+  <g fill="#ed875e"><circle cx="532" cy="188" r="16"/><circle cx="337" cy="285" r="13"/><circle cx="636" cy="211" r="13"/></g>
+  <path d="M94 455c90-97 162-119 242-119m-151 112c79-66 145-79 218-68m-287 58c43-18 76-25 116-25" fill="none" stroke="#618b68" stroke-linecap="round" stroke-width="9"/>
+  <ellipse cx="279" cy="204" rx="48" ry="34" transform="rotate(-31 279 204)" fill="#f5f2df" opacity=".88"/>
+  <ellipse cx="320" cy="193" rx="43" ry="29" transform="rotate(24 320 193)" fill="#f5f2df" opacity=".82"/>
+  <ellipse cx="313" cy="249" rx="65" ry="43" transform="rotate(-12 313 249)" fill="#e9a83e"/>
+  <path d="M295 209c-18 21-25 48-19 75m51-79c-18 24-24 50-18 78m-8-112c-4-23 6-36 21-42m-1 48c11-18 28-22 42-15" fill="none" stroke="#34433a" stroke-linecap="round" stroke-width="11"/>
+  <circle cx="368" cy="245" r="30" fill="#343f37"/>
+  <path d="m387 248 27 7-27 8" fill="#df8057"/>
+  <circle cx="376" cy="238" r="4" fill="#fff"/>
+</svg>

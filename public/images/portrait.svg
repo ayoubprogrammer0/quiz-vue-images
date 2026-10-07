@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" role="img" aria-labelledby="title">
+  <title id="title">Portrait d’une femme dans un paysage italien</title>
+  <rect width="800" height="560" fill="#d8cc9e"/>
+  <rect x="90" y="35" width="620" height="490" rx="3" fill="#8a6948"/>
+  <rect x="111" y="54" width="578" height="452" fill="#c8bd8d"/>
+  <path d="M111 315c80-75 133-81 194-39 79-62 160-70 224-26 48-30 99-26 160 19v237H111z" fill="#78917b"/>
+  <path d="M111 378c75-56 142-59 207-8 78-59 146-52 223-11 47-30 95-24 148 14v133H111z" fill="#526f61"/>
+  <path d="M111 425c67-29 121-23 191 22 66-35 130-40 200-11 67-39 127-27 187 13v57H111z" fill="#9c966c"/>
+  <path d="M168 235c-28-63-8-126 55-143 63-17 131 13 154 72 20 51 8 131-20 180l-12 91-143 1-8-108c-28-16-42-47-26-93z" fill="#77523c"/>
+  <path d="M196 192c-6-47 18-78 61-83 49-6 83 22 82 70l-8 72c-5 45-33 75-69 73-37-3-57-33-62-75z" fill="#d8b991"/>
+  <path d="M189 182c7-63 35-96 83-96 49 1 76 35 77 92-28-22-44-52-47-73-24 40-60 61-113 77z" fill="#4b4134"/>
+  <path d="M213 188c14-9 27-10 39-2m27 1c11-8 24-8 36-1m-73 42c12 7 23 7 34 1m-13 47c11 5 21 5 32-1" fill="none" stroke="#564338" stroke-linecap="round" stroke-width="6"/>
+  <path d="M164 329c-48 17-67 65-63 139 4 19 22 27 42 18l81-49 90 47c17 9 38-2 41-20 8-64-16-116-69-139l-38 50-45-1z" fill="#586f5e"/>
+  <path d="m211 321 38 59 38-60-14-23c-21 12-40 11-58-2z" fill="#e1cfaa"/>
+  <path d="M124 287c-34-52-25-108 12-147m527 118c-20-54-9-105 22-137m-539 40c-31-6-53 7-68 33m560 8c26 1 46 15 57 40" fill="none" stroke="#ded1a7" stroke-width="7" opacity=".75"/>
+  <path d="M291 425c-3 35 3 59 10 81" fill="none" stroke="#d1bf99" stroke-width="7"/>
+</svg>

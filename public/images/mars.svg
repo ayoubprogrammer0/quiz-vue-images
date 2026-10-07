@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" role="img" aria-labelledby="title">
+  <title id="title">La planète Mars dans l’espace</title>
+  <rect width="800" height="560" fill="#202c3c"/>
+  <path d="M0 448c126-60 231-38 345-8 122 32 277 20 455-51v171H0z" fill="#313d4a"/>
+  <g fill="#e2d9bf"><circle cx="111" cy="105" r="3"/><circle cx="196" cy="181" r="2"/><circle cx="670" cy="92" r="3"/><circle cx="710" cy="239" r="2"/><circle cx="570" cy="157" r="2"/><circle cx="97" cy="341" r="2"/><circle cx="286" cy="88" r="2"/><circle cx="472" cy="66" r="3"/><circle cx="727" cy="380" r="2"/><circle cx="153" cy="264" r="3"/></g>
+  <path d="m152 138 12 23 26 4-19 18 4 26-23-12-23 12 4-26-19-18 26-4z" fill="#e8a875"/>
+  <circle cx="468" cy="272" r="177" fill="#d06b4f"/>
+  <path d="M339 149c43-37 106-59 174-51 54 7 100 38 123 80-28-17-57-19-80-5-22 14-20 43-47 54-34 14-69-11-102 3-25 10-40 45-74 47-19 1-39-10-56-26 8-41 27-76 62-102z" fill="#e48b60"/>
+  <path d="M308 344c47 1 68 27 101 26 33 0 55-31 89-29 38 1 54 36 94 39-31 39-78 64-130 68-58 5-115-17-154-57z" fill="#a94f43"/>
+  <path d="M380 118c-13 28-7 54 17 69 24 15 52 10 72-8 20-18 35-26 56-20 16 4 26 16 45 16m-225 181c28-18 56-16 82-4m42-228c-4 32 16 54 47 56" fill="none" stroke="#9d4c43" stroke-linecap="round" stroke-width="13" opacity=".7"/>
+  <ellipse cx="412" cy="211" rx="20" ry="12" fill="#8e473f" opacity=".62"/>
+  <ellipse cx="534" cy="312" rx="31" ry="16" fill="#8e473f" opacity=".52"/>
+  <circle cx="582" cy="171" r="10" fill="#f4bc7c" opacity=".7"/>
+  <path d="m657 116 8 15 17 3-12 11 3 17-16-8-15 8 3-17-12-11 17-3z" fill="#e6dec9"/>
+</svg>
